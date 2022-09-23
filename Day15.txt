@@ -1,0 +1,15 @@
+You are given a 5L jug and a 3L jug. How would you get 4L in a jug? You are given an unlimited supply of water.
+
+
+
+Step 1) Fill the 5L jug.
+
+Step 2) Transfer 3L of water into 3L jug. You left with 2L of water in 5L jug.
+
+Step 3) Transfer this 2L of water into the vessel where 4L of water is needed.
+
+Step 4) Transfer 3L of Jug to 5L jug, then fill the water in 5L of jug.
+
+Step 5) Now, transfer the 3L to 3L jug again you left with 2L of water in 5L jug.
+
+Step 6) Transfer the rest of 2L into the vessel where 4L of water is needed. You filled the vessel with 4L of water.
