@@ -1,0 +1,26 @@
+.parent {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.parent .child {
+
+    width: calc(33% -10px);
+    height: 100px;
+    background-color: darkblue;
+    margin: 10px 0 0 10px;
+}
+
+/* Breakpoints */
+@media (min-width: 640px) {
+    .child {
+        width: calc(25% - 10px);
+
+    }
+}
+
+@media (min-width: 940px) {
+    .child {
+        width: calc(20% - 10px);
+    }
+} 
